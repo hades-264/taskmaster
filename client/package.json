@@ -30,13 +30,13 @@
         "react-split": "^2.0.14",
         "screenfull": "^6.0.2",
         "socket.io-client": "^4.7.3",
-        "tldraw": "^2.1.4",
+        "tldraw": "^4.1.1",
         "uuid": "^9.0.1",
         "vscode-icons-js": "^11.6.1"
     },
     "devDependencies": {
         "@iconify/react": "^4.1.1",
-        "@tldraw/tldraw": "^2.1.4",
+        "@tldraw/tldraw": "^4.1.1",
         "@types/file-saver": "^2.0.7",
         "@types/react": "^18.3.2",
         "@types/react-dom": "^18.3.0",
